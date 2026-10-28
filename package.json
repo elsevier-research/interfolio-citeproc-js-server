@@ -11,14 +11,14 @@
     "lib": "./lib"
   },
   "engines": {
-    "node": ">=0.10.25"
+    "node": "^22.23.4 || >=24.22.1"
   },
   "dependencies": {
-    "jsdom": ">=4.0",
-    "optimist": ">=0.3.1",
-    "underscore": ">=1.8",
-    "npmlog": ">=1.2",
-    "bluebird": ">=2.9"
+    "jsdom": "5.4.2",
+    "optimist": "0.6.1",
+    "underscore": "1.8.3",
+    "npmlog": "1.2.1",
+    "bluebird": "2.9.25"
   },
   "devDependencies": {}
 }
